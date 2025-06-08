@@ -1,0 +1,12 @@
+{
+    "server_config": {
+        "1": {
+            "id": "Example",
+            "logChannel": 0,
+            "logForwarding": true,
+            "onlyForwarding": false,
+            "selfLogging": false,
+            "logSendingToServerId": []
+        }
+    }
+}
